@@ -1,0 +1,1 @@
+If you install then uninstall MarkdownEditing or MarkdownExtended packages, make sure to remove the Markdown.sublime-settings or Markdown Extended.sublime-settings in C:\Users\Kenneth\AppData\Roaming\Sublime Text 3\Packages\User
